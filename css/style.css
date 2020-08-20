@@ -1,13 +1,13 @@
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 @font-face {
   font-family: 'cherry';
-  src: url('/assets/CherryUnicode/Cherry_Unicode.ttf') format('truetype');
+  src: url('../assets/CherryUnicode/Cherry_Unicode.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face{
   font-family: 'gantgaw';
-  src: url('/assets/Gantgaw/Gantgaw-Regular.ttf') format('truetype');
+  src: url('../assets/Gantgaw/Gantgaw-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
