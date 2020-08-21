@@ -19,469 +19,469 @@
 }
 @font-face {
   font-family: 'kt02';
-  src: url('assets/KT_Unicode/KT_02.ttf') format('truetype');
+  src: url('../assets/KT_Unicode/KT_02.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'kt03';
-  src: url('assets/KT_Unicode/KT_03.ttf') format('truetype');
+  src: url('../assets/KT_Unicode/KT_03.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'masterpiece';
-  src: url('assets/MasterpieceUniRound/MasterpieceUniRound.ttf') format('truetype');
+  src: url('../assets/MasterpieceUniRound/MasterpieceUniRound.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mon3';
-  src: url('assets/MON3_Anonta/MON3Anonta1.ttf') format('truetype');
+  src: url('../assets/MON3_Anonta/MON3Anonta1.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mm3-2011';
-  src: url('assets/Myanmar3/mm3_05-Jan-2011.ttf') format('truetype');
+  src: url('../assets/Myanmar3/mm3_05-Jan-2011.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mm3-multi-os';
-  src: url('assets/Myanmar3/mm3-multi-os.ttf') format('truetype');
+  src: url('../assets/Myanmar3/mm3-multi-os.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mm3h';
-  src: url('assets/Myanmar3/mm3h.ttf') format('truetype');
+  src: url('../assets/Myanmar3/mm3h.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mm3sh';
-  src: url('assets/Myanmar3/mm3sh.ttf') format('truetype');
+  src: url('../assets/Myanmar3/mm3sh.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'mm3-paoh';
-  src: url('assets/Myanmar3_PaOh/MM3_Paoh.ttf') format('truetype');
+  src: url('../assets/Myanmar3_PaOh/MM3_Paoh.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarangoun';
-  src: url('assets/MyanmarAngoun/MyanmarAngoun.ttf') format('truetype');
+  src: url('../assets/MyanmarAngoun/MyanmarAngoun.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarblack';
-  src: url('assets/MyanmarBlack/MyanmarBlack.ttf') format('truetype');
+  src: url('../assets/MyanmarBlack/MyanmarBlack.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarcensus';
-  src: url('assets/MyanmarCensus/myanmarcensus.ttf') format('truetype');
+  src: url('../assets/MyanmarCensus/myanmarcensus.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmargantgaw';
-  src: url('assets/MyanmarGantGaw/MyanmarGantGaw.ttf') format('truetype');
+  src: url('../assets/MyanmarGantGaw/MyanmarGantGaw.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarkhway';
-  src: url('assets/MyanmarKhway/MyanmarKhway.ttf') format('truetype');
+  src: url('../assets/MyanmarKhway/MyanmarKhway.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarkuttar';
-  src: url('assets/MyanmarKuttar/MyanmarKuttar.ttf') format('truetype');
+  src: url('../assets/MyanmarKuttar/MyanmarKuttar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarnayone';
-  src: url('assets/MyanmarNayone/MyanmarNayone.ttf') format('truetype');
+  src: url('../assets/MyanmarNayone/MyanmarNayone.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarnjaun';
-  src: url('assets/MyanmarNjaun/MyanmarNjaun.ttf') format('truetype');
+  src: url('../assets/MyanmarNjaun/MyanmarNjaun.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpaohone';
-  src: url('assets/MyanmarPaOhOne/MyanmarPaOhOne.ttf') format('truetype');
+  src: url('../assets/MyanmarPaOhOne/MyanmarPaOhOne.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpaohrosemary';
-  src: url('assets/MyanmarPaOhRosemary/MIUI\ Unicode.ttf') format('truetype');
+  src: url('../assets/MyanmarPaOhRosemary/MIUI\ Unicode.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpauklay';
-  src: url('assets/MyanmarPauklay/MyanmarPauklay.ttf') format('truetype');
+  src: url('../assets/MyanmarPauklay/MyanmarPauklay.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarphetsot';
-  src: url('assets/MyanmarPauklay/MyanmarPauklay.ttf') format('truetype');
+  src: url('../assets/MyanmarPauklay/MyanmarPauklay.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpixel';
-  src: url('assets/MyanmarPixel/MyanmarPixel.ttf') format('truetype');
+  src: url('../assets/MyanmarPixel/MyanmarPixel.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpixelsmooth';
-  src: url('assets/MyanmarPixel/MyanmarPixelSmooth.ttf') format('truetype');
+  src: url('../assets/MyanmarPixel/MyanmarPixelSmooth.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarponenyet';
-  src: url('assets/MyanmarPonenyet/MyanmarPonenyet.ttf') format('truetype');
+  src: url('../assets/MyanmarPonenyet/MyanmarPonenyet.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarpunk';
-  src: url('assets/MyanmarPunk/Myanmar_Punk.ttf') format('truetype');
+  src: url('../assets/MyanmarPunk/Myanmar_Punk.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarrosemarry';
-  src: url('assets/MyanmarRosemarry/Myanmar_Rosemarry.ttf') format('truetype');
+  src: url('../assets/MyanmarRosemarry/Myanmar_Rosemarry.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarsabae';
-  src: url('assets/MyanmarSabae/MyanmarSabae.ttf') format('truetype');
+  src: url('../assets/MyanmarSabae/MyanmarSabae.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarsagar';
-  src: url('assets/MyanmarSagar/MyanmarSagar.ttf') format('truetype');
+  src: url('../assets/MyanmarSagar/MyanmarSagar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarsanspro';
-  src: url('assets/MyanmarSansPro/MyanmarSansPro.ttf') format('truetype');
+  src: url('../assets/MyanmarSansPro/MyanmarSansPro.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarsquare';
-  src: url('assets/MyanmarSquare/MyanmarSquare.ttf') format('truetype');
+  src: url('../assets/MyanmarSquare/MyanmarSquare.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarsquarelight';
-  src: url('assets/MyanmarSquare/MyanmarSquareLight.ttf') format('truetype');
+  src: url('../assets/MyanmarSquare/MyanmarSquareLight.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmartagu';
-  src: url('assets/MyanmarTagu/MyanmarTagu.ttf') format('truetype');
+  src: url('../assets/MyanmarTagu/MyanmarTagu.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmartaungyi';
-  src: url('assets/MyanmarTaungyi/MyanmarTaungyi.ttf') format('truetype');
+  src: url('../assets/MyanmarTaungyi/MyanmarTaungyi.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmartext';
-  src: url('assets/MyanmarText/mmrtext.ttf') format('truetype');
+  src: url('../assets/MyanmarText/mmrtext.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmartextbold';
-  src: url('assets/MyanmarText/mmrtextb.ttf') format('truetype');
+  src: url('../assets/MyanmarText/mmrtextb.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmartextmelano';
-  src: url('assets/MyanmarTextMelano/MyanmarTextMelano.ttf') format('truetype');
+  src: url('../assets/MyanmarTextMelano/MyanmarTextMelano.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarthuriya';
-  src: url('assets/MyanmarThuriya/MyanmarThuriya.ttf') format('truetype');
+  src: url('../assets/MyanmarThuriya/MyanmarThuriya.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmarthuriyavolt';
-  src: url('assets/MyanmarThuriya/MyanmarThuriya_volt.ttf') format('truetype');
+  src: url('../assets/MyanmarThuriya/MyanmarThuriya_volt.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'myanmaryinmar';
-  src: url('assets/MyanmarYinmar/MyanmarYinmar.ttf') format('truetype');
+  src: url('../assets/MyanmarYinmar/MyanmarYinmar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-web-pro';
-  src: url('assets/Namkhon/Namkhon_Web_pro.ttf') format('truetype');
+  src: url('../assets/Namkhon/Namkhon_Web_pro.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-unicode';
-  src: url('assets/Namkhon/NamKhoneUnicode.ttf') format('truetype');
+  src: url('../assets/Namkhon/NamKhoneUnicode.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-grand';
-  src: url('assets/Namkhon/NK\ Grand.ttf') format('truetype');
+  src: url('../assets/Namkhon/NK\ Grand.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-smart2';
-  src: url('assets/Namkhon/NK_SSmart2.ttf') format('truetype');
+  src: url('../assets/Namkhon/NK_SSmart2.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-smart3';
-  src: url('assets/Namkhon/NK_SSmart3.ttf') format('truetype');
+  src: url('../assets/Namkhon/NK_SSmart3.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'namkhon-smart4';
-  src: url('assets/Namkhon/NK_SSmart4.ttf') format('truetype');
+  src: url('../assets/Namkhon/NK_SSmart4.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'notosansmyanmar';
-  src: url('assets/NotoSansMyanmar/NotoSansMyanmar-Regular.ttf') format('truetype');
+  src: url('../assets/NotoSansMyanmar/NotoSansMyanmar-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'notosansmyanmarbold';
-  src: url('assets/NotoSansMyanmar/NotoSansMyanmar-Bold.ttf') format('truetype');
+  src: url('../assets/NotoSansMyanmar/NotoSansMyanmar-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'notosansmyanmaruiregular';
-  src: url('assets/NotoSansMyanmar/NotoSansMyanmarUI-Regular.ttf') format('truetype');
+  src: url('../assets/NotoSansMyanmar/NotoSansMyanmarUI-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'notosansmyanmaruibold';
-  src: url('assets/NotoSansMyanmar/NotoSansMyanmarUI-Bold.ttf') format('truetype');
+  src: url('../assets/NotoSansMyanmar/NotoSansMyanmarUI-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauk';
-  src: url('assets/Padauk/Padauk.ttf') format('truetype');
+  src: url('../assets/Padauk/Padauk.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukbold';
-  src: url('assets/Padauk/Padauk-bold.ttf') format('truetype');
+  src: url('../assets/Padauk/Padauk-bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukbook';
-  src: url('assets/Padauk/padauk-book.ttf') format('truetype');
+  src: url('../assets/Padauk/padauk-book.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukbookbold';
-  src: url('assets/Padauk/padauk-bookbold.ttf') format('truetype');
+  src: url('../assets/Padauk/padauk-bookbold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukzawgyi';
-  src: url('assets/Padauk/Padauk-Zawgyi.ttf') format('truetype');
+  src: url('../assets/Padauk/Padauk-Zawgyi.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukghost';
-  src: url('assets/PadaukGhost/PadaukGhostтАЛ.ttf') format('truetype');
+  src: url('../assets/PadaukGhost/PadaukGhostтАЛ.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukghostv2';
-  src: url('assets/PadaukGrandPro/PadaukGrandPro\ v2.ttf') format('truetype');
+  src: url('../assets/PadaukGrandPro/PadaukGrandPro\ v2.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padaukaungchikote';
-  src: url('assets/PadaukKyaungchikote/Padauk\ Kyaungchikote.ttf') format('truetype');
+  src: url('../assets/PadaukKyaungchikote/Padauk\ Kyaungchikote.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauksagar';
-  src: url('assets/PadaukSagar/PadaukSagar.ttf') format('truetype');
+  src: url('../assets/PadaukSagar/PadaukSagar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauksgaw';
-  src: url('assets/PadaukSgaw/PadaukSgaw.ttf') format('truetype');
+  src: url('../assets/PadaukSgaw/PadaukSgaw.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauksgawbold';
-  src: url('assets/PadaukSgaw/PadaukSgaw-Bold.ttf') format('truetype');
+  src: url('../assets/PadaukSgaw/PadaukSgaw-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauksgawbook';
-  src: url('assets/PadaukSgaw/PadaukSgaw-book.ttf') format('truetype');
+  src: url('../assets/PadaukSgaw/PadaukSgaw-book.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'padauksgawbookbold';
-  src: url('assets/PadaukSgaw/PadaukSgaw-bookbold.ttf') format('truetype');
+  src: url('../assets/PadaukSgaw/PadaukSgaw-bookbold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'panglong';
-  src: url('assets/PangLong/PangLong_2011feb7.ttf') format('truetype');
+  src: url('../assets/PangLong/PangLong_2011feb7.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'paohDragon';
-  src: url('assets/PaohDragonApp/PaohDragonApp.ttf') format('truetype');
+  src: url('../assets/PaohDragonApp/PaohDragonApp.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'parabaik2';
-  src: url('assets/Parabaik/Parabaik20080421.ttf') format('truetype');
+  src: url('../assets/Parabaik/Parabaik20080421.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'parabaik3';
-  src: url('assets/Parabaik/Parabaik_UTN11-3.ttf') format('truetype');
+  src: url('../assets/Parabaik/Parabaik_UTN11-3.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'pyidaungsu';
-  src: url('assets/Pyidaungsu/pyidaungsu.ttf') format('truetype');
+  src: url('../assets/Pyidaungsu/pyidaungsu.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'pyidaungsu1.2';
-  src: url('assets/Pyidaungsu/pyidaungsu-1.2.ttf') format('truetype');
+  src: url('../assets/Pyidaungsu/pyidaungsu-1.2.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'pyidaungsu1.3';
-  src: url('assets/Pyidaungsu/pyidaungsu-1.3.ttf') format('truetype');
+  src: url('../assets/Pyidaungsu/pyidaungsu-1.3.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'samsungmyanmar';
-  src: url('assets/SamsungMyanmar/Samsung\ Myanmar.ttf') format('truetype');
+  src: url('../assets/SamsungMyanmar/Samsung\ Myanmar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'shanunicode';
-  src: url('assets/ShanUnicode/Shan\ Unicode.ttf') format('truetype');
+  src: url('../assets/ShanUnicode/Shan\ Unicode.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'thanlwin';
-  src: url('assets/Thanlwin/ThanLwin.ttf') format('truetype');
+  src: url('../assets/Thanlwin/ThanLwin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'tharlon';
-  src: url('assets/Tharlon/TharLon.ttf') format('truetype');
+  src: url('../assets/Tharlon/TharLon.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'winuni-innwa';
-  src: url('assets/WinUniInnwa/WinUniInnwa.ttf') format('truetype');
+  src: url('../assets/WinUniInnwa/WinUniInnwa.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'yoeyar-one-bold';
-  src: url('assets/YoeYarOne/YoeYar-One\ Bold.ttf') format('truetype');
+  src: url('../assets/YoeYarOne/YoeYar-One\ Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'yoeyar-one-light';
-  src: url('assets/YoeYarOne/YoeYar-One\ Light.ttf') format('truetype');
+  src: url('../assets/YoeYarOne/YoeYar-One\ Light.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'yoeyar-one-regular';
-  src: url('assets/YoeYarOne/YoeYar-One\ Regular.ttf') format('truetype');
+  src: url('../assets/YoeYarOne/YoeYar-One\ Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'yunghkio';
-  src: url('assets/Yunghkio/Yunghkio.ttf') format('truetype');
+  src: url('../assets/Yunghkio/Yunghkio.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
