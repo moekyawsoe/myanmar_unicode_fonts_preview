@@ -21,51 +21,63 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 
 
+
 </head>
 
 <body>
+    <div id="banner">
+        <div id="cloud-scroll">
 
-    <nav class="navbar navbar-default navbar-static-top">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">
-                    Myanmar Unicode Fonts
-                </a>
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">
+                            Myanmar Unicode Fonts
+                        </a>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#" onclick="switchView('views/preview.html')">Preview</a></li>
+                            <li><a href="#" onclick="switchView('views/docs.html')">Docs</a></li>
+                            <li class="align-middle"><a
+                                    href="https://github.com/moekyawsoe/myanmar_unicode_fonts_preview"
+                                    target="_blank"><i class="fab fa-github fa-sm"></i></a></li>
+
+
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+
+
+            <div id="content">
+                <div class="container-fluid" id="main-container">
+
+                </div>
             </div>
 
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#" onclick="switchView('views/preview.html')">Preview</a></li>
-                    <li><a href="#" onclick="switchView('views/docs.html')">Docs</a></li>
-                    <li class="align-middle"><a href="#" target="_blank"><i class="fab fa-github fa-sm"></i></a></li>
-                    
 
-                </ul>
-            </div>
+            <hr class="divider">
+
+            <footer class="pull-center footer">
+                <p class="col-md-12 text-center">
+                    Copyright &COPY; 2020 <a href="http://moekyawsoe.github.io">MKS</a>
+                </p>
+            </footer>
         </div>
-    </nav>
 
-    <div id="content">
-        <div class="container-fluid" id="main-container">
-
-        </div>
     </div>
-
-    <hr class="divider">
-
-    <footer class="pull-center footer">
-        <p class="col-md-12 text-center">
-            Copyright &COPY; 2020 <a href="http://moekyawsoe.github.io">MKS</a>
-        </p>
-    </footer>
     </div>
 
     <script type="text/javascript" src="./js/app.js"></script>
