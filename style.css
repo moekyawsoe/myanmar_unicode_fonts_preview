@@ -334,6 +334,7 @@ p.yunghkio{
       text-decoration: none; }
     .method .cell .text-muted {
       color: #ddd; }
+
   @media (max-width: 991px) {
     .method [class^="row"],
     .method [class*=" row"] {
@@ -342,7 +343,7 @@ p.yunghkio{
     .method .cell {
       padding: 0 10px; }
       .method .cell .propertyname {
-        font-weight: bold;
+        font-weight: normal;
         font-size: 1.2em; }
         .method .cell .propertyname .lookuplink {
           font-weight: normal;
@@ -359,7 +360,8 @@ p.yunghkio{
       .method .cell .description {
         padding-left: 10px; }
       .method .cell .mobile-isrequired {
-        display: inline; } }
+        display: inline; } 
+    }
   
   
   /* Row Utilities */
